@@ -1,0 +1,31 @@
+### Footprint positions - created on 2024-04-28T19:57:36+0200 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref        Val          Package                                   PosX       PosY       Rot  Side
+ATMEGA       MEGA32-P     DIL40                                  38.7350    36.8300  -90.0000  top
+Atmega382-P  ATmega328-M  QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm    81.2797    38.0997  -90.0000  top
+Busy         Busy         LED_1206_3216Metric                    89.5347    12.6997    0.0000  top
+C1           C            C_1206_3216Metric                      23.4950    34.2900  180.0000  top
+C2           C            C_1206_3216Metric                      23.4950    30.4800  180.0000  top
+C4           100uF        CP_Radial_D5.0mm_P2.50mm               80.0745    27.3047    0.0000  top
+C10          0.1uF        C_1206_3216Metric                      81.2797    22.8597    0.0000  top
+D7           3V6          D_1206_3216Metric                      89.5347    24.1297  180.0000  top
+D8           3V6          D_1206_3216Metric                      89.5347    20.3197  180.0000  top
+J1           ISPHeader    IDC-Header_2x05_P2.54mm_Vertical      103.5047    35.5597  180.0000  top
+J3           USB_B_Micro  USB_Micro-B_Wuerth_629105150521       103.5047    22.2247   90.0000  top
+PORT-A       PINHD-1X9    1X09                                   57.1500    54.6100   90.0000  top
+PORT-B       PINHD-1X8    1X08                                   19.0500    55.8800  -90.0000  top
+PORT-C       PINHD-1X8    1X08                                   57.1500    16.5100   90.0000  top
+PORT-D       PINHD-1X8    1X08                                   19.0500    16.5100  -90.0000  top
+Power        Power        LED_1206_3216Metric                    89.5347     8.8897    0.0000  top
+Q1           CRYSTAL      Crystal_HC52-U_Vertical                17.7800    30.4850   90.0000  top
+R1           10k          D_1206_3216Metric                      53.3400    35.5600  180.0000  top
+R2           1K5          R_1206_3216Metric                      94.6147    20.3197  180.0000  top
+R7           1K5          R_1206_3216Metric                      94.6147    12.6997  180.0000  top
+R8           1K5          R_1206_3216Metric                      94.6147     8.8897  180.0000  top
+R9           10K          R_1206_3216Metric                      89.5347    16.5097  180.0000  top
+R11          68           R_1206_3216Metric                      94.6147    24.1297    0.0000  top
+RESET        SWITCH       B3F-10XX                               60.9600    38.1000  180.0000  top
+Y2           12MHz        Crystal_HC18-U_Vertical                78.9197    49.5297    0.0000  top
+## End

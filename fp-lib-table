@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Atmega16-32 Development Board")(type KiCad)(uri "$(KIPRJMOD)/Atmega16-32 Development Board.pretty")(options "")(descr ""))
+)

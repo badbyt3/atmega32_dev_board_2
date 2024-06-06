@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Atmega16-32_Development_Board-eagle-import")(type "Legacy")(uri "${KIPRJMOD}/Atmega16-32_Development_Board-eagle-import.lib")(options "")(descr ""))
+  (lib (name "SARDISP")(type "Legacy")(uri "E:/Users/tarek/Documents/KiCad/projects/sardisp-master/hardware/SARDISP.lib")(options "")(descr ""))
+)

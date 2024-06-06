@@ -1,0 +1,338 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Atmega16-32_Development_Board-eagle-import_+5V
+#
+DEF Atmega16-32_Development_Board-eagle-import_+5V #P+ 0 40 Y Y 1 L P
+F0 "#P+" 0 0 50 H I C CNN
+F1 "Atmega16-32_Development_Board-eagle-import_+5V" -100 -200 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 0 0 -50 -75 N
+P 2 1 0 0 50 -75 0 0 N
+X +5V 1 0 -100 100 U 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_10-XX
+#
+DEF Atmega16-32_Development_Board-eagle-import_10-XX S 0 40 Y Y 1 L N
+F0 "S" -250 -100 59 V V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_10-XX" -150 125 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 -100 5 1 0 16 N
+C 0 100 5 1 0 16 N
+P 2 1 0 0 -175 -75 -125 -75 N
+P 2 1 0 0 -175 0 -175 -75 N
+P 2 1 0 0 -175 0 -125 0 N
+P 2 1 0 0 -175 75 -175 0 N
+P 2 1 0 0 -175 75 -125 75 N
+P 2 1 0 0 -100 0 -75 0 N
+P 2 1 0 0 -50 0 -25 0 N
+P 2 1 0 0 0 -100 -50 75 N
+P 2 1 0 0 0 75 0 100 N
+P 2 1 0 0 100 -100 0 -100 N
+P 2 1 0 0 100 100 0 100 N
+X S 1 0 200 100 D 50 0 1 0 P
+X S1 2 100 200 100 D 50 0 1 0 P
+X P 3 0 -200 100 U 50 0 1 0 P
+X P1 4 100 -200 100 U 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_78TV
+#
+DEF Atmega16-32_Development_Board-eagle-import_78TV IC 0 40 Y Y 1 L N
+F0 "IC" -300 225 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_78TV" -300 125 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 -80 -170 51 0 1 0 GND Normal 0 L B
+P 2 1 0 0 -300 -200 300 -200 N
+P 2 1 0 0 -300 100 -300 -200 N
+P 2 1 0 0 300 -200 300 100 N
+P 2 1 0 0 300 100 -300 100 N
+X VI 1 -400 0 100 R 50 50 1 0 I
+X GND 2 0 -300 100 U 50 0 1 0 P
+X VO 3 400 0 100 L 50 50 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_C-EU025-024X044
+#
+DEF Atmega16-32_Development_Board-eagle-import_C-EU025-024X044 C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_C-EU025-024X044" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_CPOL-EUE2.5-5
+#
+DEF Atmega16-32_Development_Board-eagle-import_CPOL-EUE2.5-5 C 0 40 Y Y 1 L N
+F0 "C" 45 19 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_CPOL-EUE2.5-5" 45 -181 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 900 -23 16 42 0 1 0 + Normal 0 L B
+S -65 -100 65 -65 1 0 0 F
+P 2 1 0 0 -60 -35 60 -35 N
+P 2 1 0 0 -60 0 -60 -35 N
+P 2 1 0 0 -60 0 60 0 N
+P 2 1 0 0 60 -35 60 0 N
+X + + 0 100 100 D 0 0 1 0 P
+X - - 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_CRYSTALHC49U-V
+#
+DEF Atmega16-32_Development_Board-eagle-import_CRYSTALHC49U-V Q 0 40 Y Y 1 L N
+F0 "Q" 100 40 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_CRYSTALHC49U-V" 100 -100 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 -85 -45 28 0 1 0 1 Normal 0 L B
+T 0 60 -45 28 0 1 0 2 Normal 0 L B
+P 2 1 0 0 -100 0 -40 0 N
+P 2 1 0 0 -40 70 -40 -70 N
+P 2 1 0 0 -15 -60 15 -60 N
+P 2 1 0 0 -15 60 -15 -60 N
+P 2 1 0 0 15 -60 15 60 N
+P 2 1 0 0 15 60 -15 60 N
+P 2 1 0 0 40 0 100 0 N
+P 2 1 0 0 40 70 40 -70 N
+X 1 1 -100 0 0 R 0 0 1 0 P
+X 2 2 100 0 0 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_DC21MMX
+#
+DEF ~Atmega16-32_Development_Board-eagle-import_DC21MMX ~ 0 40 Y Y 1 L N
+F0 "" 0 0 50 H I C CNN
+F1 "Atmega16-32_Development_Board-eagle-import_DC21MMX" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -400 -200 -400 200 N
+P 2 1 0 0 -400 200 400 200 N
+P 2 1 0 0 400 -200 -400 -200 N
+P 2 1 0 0 400 200 400 -200 N
+X 1 1 -200 -400 200 U 50 50 1 0 W
+X 2 2 200 -400 200 U 50 50 1 0 W
+X 3 3 600 0 200 L 50 50 1 0 W
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_GND
+#
+DEF Atmega16-32_Development_Board-eagle-import_GND #GND 0 40 Y Y 1 L P
+F0 "#GND" 0 0 50 H I C CNN
+F1 "Atmega16-32_Development_Board-eagle-import_GND" -100 -100 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -75 0 75 0 N
+X GND 1 0 100 100 D 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_LED3MM
+#
+DEF Atmega16-32_Development_Board-eagle-import_LED3MM LED 0 40 Y Y 1 L N
+F0 "LED" 140 -180 59 V V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_LED3MM" 225 -180 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -80 -30 -135 -85 N
+P 2 1 0 0 -75 -75 -130 -130 N
+P 2 1 0 0 0 -100 -50 -100 N
+P 2 1 0 0 0 -100 -50 0 N
+P 2 1 0 0 0 0 -50 0 N
+P 2 1 0 0 0 0 0 -100 N
+P 2 1 0 0 50 -100 0 -100 N
+P 2 1 0 0 50 0 0 -100 N
+P 2 1 0 0 50 0 0 0 N
+P 3 1 0 0 -135 -85 -120 -50 -100 -70 F
+P 3 1 0 0 -130 -130 -115 -95 -95 -115 F
+X A A 0 100 100 D 0 0 1 0 P
+X C K 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_MEGA32-P
+#
+DEF Atmega16-32_Development_Board-eagle-import_MEGA32-P IC 0 40 Y Y 1 L N
+F0 "IC" -600 1830 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_MEGA32-P" -600 -1900 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -600 -1800 -600 1800 N
+P 2 1 0 0 -600 1800 600 1800 N
+P 2 1 0 0 600 -1800 -600 -1800 N
+P 2 1 0 0 600 1800 600 -1800 N
+X (T0/XCK)PB0 1 800 100 200 L 50 50 1 0 U
+X VCC 10 -800 600 200 R 50 50 1 0 W
+X GND 11 -800 500 200 R 50 50 1 0 W
+X XTAL2 12 -800 1400 200 R 50 50 1 0 U
+X XTAL1 13 -800 1200 200 R 50 50 1 0 U
+X (RXD)PD0 14 800 -1700 200 L 50 50 1 0 U
+X (TXD)PD1 15 800 -1600 200 L 50 50 1 0 U
+X (INT0)PD2 16 800 -1500 200 L 50 50 1 0 U
+X (INT1)PD3 17 800 -1400 200 L 50 50 1 0 U
+X (OC1B)PD4 18 800 -1300 200 L 50 50 1 0 U
+X (OC1A)PD5 19 800 -1200 200 L 50 50 1 0 U
+X (T1)PB1 2 800 200 200 L 50 50 1 0 U
+X (ICP)PD6 20 800 -1100 200 L 50 50 1 0 U
+X (OC2)PD7 21 800 -1000 200 L 50 50 1 0 U
+X (SCL)PC0 22 800 -800 200 L 50 50 1 0 U
+X (SDA)PC1 23 800 -700 200 L 50 50 1 0 U
+X (TCK)PC2 24 800 -600 200 L 50 50 1 0 U
+X (TMS)PC3 25 800 -500 200 L 50 50 1 0 U
+X (TDO)PC4 26 800 -400 200 L 50 50 1 0 U
+X (TDI)PC5 27 800 -300 200 L 50 50 1 0 U
+X (TOSC1)PC6 28 800 -200 200 L 50 50 1 0 U
+X (TOSC2)PC7 29 800 -100 200 L 50 50 1 0 U
+X (AIN0/INT2)PB2 3 800 300 200 L 50 50 1 0 U
+X AVCC 30 -800 900 200 R 50 50 1 0 W
+X GND@1 31 -800 800 200 R 50 50 1 0 W
+X AREF 32 -800 1000 200 R 50 50 1 0 P
+X (ADC7)PA7 33 800 1700 200 L 50 50 1 0 U
+X (ADC6)PA6 34 800 1600 200 L 50 50 1 0 U
+X (ADC5)PA5 35 800 1500 200 L 50 50 1 0 U
+X (ADC4)PA4 36 800 1400 200 L 50 50 1 0 U
+X (ADC3)PA3 37 800 1300 200 L 50 50 1 0 U
+X (ADC2)PA2 38 800 1200 200 L 50 50 1 0 U
+X (ADC1)PA1 39 800 1100 200 L 50 50 1 0 U
+X (AIN1/OC0)PB3 4 800 400 200 L 50 50 1 0 U
+X (ADC0)PA0 40 800 1000 200 L 50 50 1 0 U
+X (SS)PB4 5 800 500 200 L 50 50 1 0 U
+X (MOSI)PB5 6 800 600 200 L 50 50 1 0 U
+X (MISO)PB6 7 800 700 200 L 50 50 1 0 U
+X (SCK)PB7 8 800 800 200 L 50 50 1 0 U
+X RESET 9 -800 1700 200 R 50 50 1 0 I I
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_PINHD-1X4
+#
+DEF Atmega16-32_Development_Board-eagle-import_PINHD-1X4 JP 0 40 Y Y 1 L N
+F0 "JP" -250 325 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_PINHD-1X4" -250 -300 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -250 -200 50 -200 N
+P 2 1 0 0 -250 300 -250 -200 N
+P 2 1 0 0 50 -200 50 300 N
+P 2 1 0 0 50 300 -250 300 N
+X 1 1 -100 200 100 R 50 0 1 0 P I
+X 2 2 -100 100 100 R 50 0 1 0 P I
+X 3 3 -100 0 100 R 50 0 1 0 P I
+X 4 4 -100 -100 100 R 50 0 1 0 P I
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_PINHD-1X6
+#
+DEF Atmega16-32_Development_Board-eagle-import_PINHD-1X6 JP 0 40 Y Y 1 L N
+F0 "JP" -250 425 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_PINHD-1X6" -250 -400 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -250 -300 50 -300 N
+P 2 1 0 0 -250 400 -250 -300 N
+P 2 1 0 0 50 -300 50 400 N
+P 2 1 0 0 50 400 -250 400 N
+X 1 1 -100 300 100 R 50 0 1 0 P I
+X 2 2 -100 200 100 R 50 0 1 0 P I
+X 3 3 -100 100 100 R 50 0 1 0 P I
+X 4 4 -100 0 100 R 50 0 1 0 P I
+X 5 5 -100 -100 100 R 50 0 1 0 P I
+X 6 6 -100 -200 100 R 50 0 1 0 P I
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_PINHD-1X8
+#
+DEF Atmega16-32_Development_Board-eagle-import_PINHD-1X8 JP 0 40 Y Y 1 L N
+F0 "JP" -250 525 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_PINHD-1X8" -250 -500 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -250 -400 50 -400 N
+P 2 1 0 0 -250 500 -250 -400 N
+P 2 1 0 0 50 -400 50 500 N
+P 2 1 0 0 50 500 -250 500 N
+X 1 1 -100 400 100 R 50 0 1 0 P I
+X 2 2 -100 300 100 R 50 0 1 0 P I
+X 3 3 -100 200 100 R 50 0 1 0 P I
+X 4 4 -100 100 100 R 50 0 1 0 P I
+X 5 5 -100 0 100 R 50 0 1 0 P I
+X 6 6 -100 -100 100 R 50 0 1 0 P I
+X 7 7 -100 -200 100 R 50 0 1 0 P I
+X 8 8 -100 -300 100 R 50 0 1 0 P I
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_PINHD-1X9
+#
+DEF Atmega16-32_Development_Board-eagle-import_PINHD-1X9 JP 0 40 Y Y 1 L N
+F0 "JP" -250 525 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_PINHD-1X9" -250 -600 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -250 -500 50 -500 N
+P 2 1 0 0 -250 500 -250 -500 N
+P 2 1 0 0 50 -500 50 500 N
+P 2 1 0 0 50 500 -250 500 N
+X 1 1 -100 400 100 R 50 0 1 0 P I
+X 2 2 -100 300 100 R 50 0 1 0 P I
+X 3 3 -100 200 100 R 50 0 1 0 P I
+X 4 4 -100 100 100 R 50 0 1 0 P I
+X 5 5 -100 0 100 R 50 0 1 0 P I
+X 6 6 -100 -100 100 R 50 0 1 0 P I
+X 7 7 -100 -200 100 R 50 0 1 0 P I
+X 8 8 -100 -300 100 R 50 0 1 0 P I
+X 9 9 -100 -400 100 R 50 0 1 0 P I
+ENDDRAW
+ENDDEF
+#
+# Atmega16-32_Development_Board-eagle-import_R-EU_0204_7
+#
+DEF Atmega16-32_Development_Board-eagle-import_R-EU_0204_7 R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "Atmega16-32_Development_Board-eagle-import_R-EU_0204_7" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -35 -100 35 N
+P 2 1 0 0 -100 -35 100 -35 N
+P 2 1 0 0 100 -35 100 35 N
+P 2 1 0 0 100 35 -100 35 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
